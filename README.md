@@ -4,8 +4,14 @@ Olá! Esse projeto open-source foi realizado dentro de uma empresa de saúde, co
 Incluindo:
 
 Automação para o reajuste de exames seguindo a tabela de preço contratada pela operadora.
+
 Auditoria em exames que estavam contratados pelas operadoras, porém inativo para realização em nosso sistema.
+
 Criação de uma calculadora de volume para exames negociados pela operadora e seu impacto real no faturamento.
+
 Consumo de dados do SAP via BigQuery e realização de testes.
+
 Consumo de dados e realizações de testes para ser disponibilizado ao setor os exames que são aceitos na marca e tabela de preço negociada. 
+
 Leitura de imagens e pdfs, junto a transcrição para excel.
+
