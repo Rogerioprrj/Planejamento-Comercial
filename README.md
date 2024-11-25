@@ -1,5 +1,5 @@
 # Planejamento-Comercial
-Olá! Esse projeto foi realizado com o objetivo de automatizar diversas tarefas time de planejamento comercial dentro de uma empresa de Saúde.
+Olá! Esse projeto open-source realizado dentro de uma empresa de saúde,com o objetivo de automatizar diversas tarefas time de planejamento comercial.
 Incluindo:
 
 Automação para o reajuste de exames seguindo a tabela de preço contratada pela operadora.
