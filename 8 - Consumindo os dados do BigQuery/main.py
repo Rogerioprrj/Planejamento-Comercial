@@ -10,7 +10,7 @@ import json
 
 caminho_credenciais = r'C:\Users\rogerio.mello\Documents\Repositorio\credenciais.json'
 
-# Abrir e carregar o arquivo JSON
+# Carregando arquivo JSON com credenciais
 with open(caminho_credenciais, 'r') as f:
     credenciais_json = json.load(f)
 
